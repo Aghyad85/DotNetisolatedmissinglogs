@@ -53,7 +53,7 @@ After publishing it to the portal the result will be as the following :
  <mark> **As you can see LogInformation, LogDebug, and LogTrace are missing ?** </mark>
 
 
-# Show LogInformation logs 
+# How to show LogInformation logs 
 to show LogInformation logs you need to change Program.cs as the following then publish to the portal .
 
 
@@ -94,7 +94,7 @@ Here we go the result from Portal will be :
 ![2024-03-06_12h27_47](https://github.com/Aghyad85/DotNetisolatedmissinglogs/assets/54501053/a1497815-86e3-456f-bc5a-cd4515057122)
 
 
-# Show LogDebug & LogTrace logs 
+# How to show LogDebug & LogTrace logs 
 To show LogInformation logs you need to change Program.cs as the following then publish to the portal .
 
 
