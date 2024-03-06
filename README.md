@@ -5,7 +5,7 @@ with reference to our docs: [Managing log levels
 
 ![2024-03-06_12h59_54](https://github.com/Aghyad85/DotNetisolatedmissinglogs/assets/54501053/096d1e72-2d89-4272-9a73-a9e9ecec2d66)
 
-The rest of your application continues to work with ILogger and ILogger<T>. However,<mark> by default, the Application Insights SDK adds a logging filter that instructs the logger to capture only warnings and more severe logs. If you want to disable this behavior, remove the filter rule as part of the service configuration:</mark>
+The rest of your application continues to work with ILogger and `ILogger<T>`. However,<mark> by default, the Application Insights SDK adds a logging filter that instructs the logger to capture only warnings and more severe logs. If you want to disable this behavior, remove the filter rule as part of the service configuration:</mark>
 
 # Default behavior: 
 
