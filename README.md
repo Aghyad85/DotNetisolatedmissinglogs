@@ -173,4 +173,4 @@ Here we go the result from Portal will be :
 
 # References 
 - [Managing log levels](https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide?tabs=linux#managing-log-levels)
-- [Unable to get Trace logs from worke](https://github.com/Azure/azure-functions-dotnet-worker/issues/2235)
+- [Unable to get Trace logs from worker](https://github.com/Azure/azure-functions-dotnet-worker/issues/2235)
